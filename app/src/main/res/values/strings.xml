@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Blocker</string>
+    <string name="accessibility_description">Scans watched apps for blocked content and privacy settings</string>
+</resources>
